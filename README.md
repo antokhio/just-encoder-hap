@@ -35,3 +35,9 @@ Run `just --usage prores4444` or `just --usage hapr` for options. Existing outpu
 ## Contributing and license
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for adding profiles. Project files are licensed under [MIT](LICENSE). The bundled FFmpeg build and its components have separate licenses; see the license files in `lib\win-64`.
+
+## Credits
+
+- [DemolitionStudios](https://github.com/DemolitionStudios)
+
+Based on [fork](https://github.com/DemolitionStudios/FFmpeg/tree/hap_bc6h) by [DemolitionStudios](https://github.com/DemolitionStudios)
