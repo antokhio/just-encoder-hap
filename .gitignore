@@ -1,0 +1,10 @@
+# Default outputs from the encoding recipes
+*_prores.mov
+*_hapr.mov
+
+# Local configuration and temporary files
+.env
+.env.*
+*.log
+*.tmp
+Thumbs.db
